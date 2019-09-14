@@ -6,6 +6,27 @@
     "test": "jest",
     "lint": "eslint ."
   },
+  "description": "React Native Redux Boilerplate",
+  "keywords": [
+    "boilerplate",
+    "redux",
+    "library",
+    "FreakyCoder",
+    "freakycoder",
+    "kuray",
+    "Kuray",
+    "react",
+    "react-native",
+    "javascript",
+    "ui-lib",
+    "rn"
+  ],
+  "homepage": "https://www.freakycoder.com",
+  "bugs": "https://github.com/WrathChaos/react-native-redux-boilerplate/issues",
+  "main": "./lib/src/index.js",
+  "repository": "git@github.com:WrathChaos/react-native-redux-boilerplate.git",
+  "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@freakycoder/react-native-helpers": "0.0.21",
     "@react-native-community/async-storage": "^1.6.1",
