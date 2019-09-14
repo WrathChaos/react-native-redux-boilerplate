@@ -15,7 +15,7 @@
 
 <p align="center">
   <img alt="React Native Redux Boilerplate"
-        src="https://github.com/WrathChaos/react-native-redux-boilerplate/blob/master/assets/Screenshots/JSreduxBoilerplate.png" />
+        src="https://github.com/WrathChaos/react-native-redux-boilerplate/blob/master/assets/Screenshots/JSLibraryBoilerplate.png" />
 </p>
 
 ## Installation
