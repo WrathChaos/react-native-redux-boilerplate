@@ -7,7 +7,7 @@
 [![React Native redux Boiler Plate](https://img.shields.io/badge/-React%20Native%20redux%20Boilerplate-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-redux-boilerplate)
 
 
-[![npm version](https://img.shields.io/npm/v/react-native-redux-boilerplate.svg?style=for-the-badge)](https://www.npmjs.com/package/@freakycoderreact-native-redux-boilerplate)
+[![npm version](https://img.shields.io/npm/v/react-native-redux-boilerplate.svg?style=for-the-badge)](https://www.npmjs.com/package/@freakycoder/react-native-redux-boilerplate)
 [![npm](https://img.shields.io/npm/dt/react-native-redux-boilerplate.svg?style=for-the-badge)](https://www.npmjs.com/package/@freakycoder/react-native-redux-boilerplate)
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
