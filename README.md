@@ -22,51 +22,72 @@
 
 You can simply clone the project and start with your barebone project
 
-
-# Your Component Options
-
-- Option 1 Component
-- Option 2 Component
-
-## Import
-
-```js
-import { Component1, Component2 } from "react-native-redux-boilerplate";
 ```
-
-# Component1 Usage 
-
-```js
-<Component1 />
+git clone git@github.com:WrathChaos/react-native-redux-boilerplate.git
 ```
 
 
-# Component2 Usage 
+# What's Included ? 
+
+- Redux
+- Redux Services
+- Ready to use Styles
+- NavigationService
+- React Navigation v4
+- React Navigation Helpers
+- HTTP Network Management (Axios)
+- Generic React Hooks API Request Service
+- Babel Plugin Module Resolver to fix the relative path problem (visit .babelrc)
+
+<br>
+
+# Components
+
+## NavigationService (Already set it up)
+
+## Styles
+
+- colors
+- fonts
+- spacing
+- theme
+- font-size
+
+
+
+
+## Imports
 
 ```js
-<Component2 />
+import colors from "colors";
 ```
 
+```js
+import fonts from "fonts";
+```
 
-### Configuration - Props
+```js
+import fontSize from "font-size";
+```
 
+```js
+import spacing from "spacing";
+```
 
-| Property |  Type   | Default | Description                                             |
-| -------- | :-----: | :-----: | ------------------------------------------------------- |
-| outline  | boolean |  true   | make the button outline                                 |
-| solid    | boolean |  false  | make the button with a solid background and a shadow    |
-| gradient | boolean |  false  | make the button with a gradient background and a shadow |
-| width    | number  |   150   | change the button's width                               |
+```js
+import theme from "theme";
+```
 
+if you want to call them all at once
+
+```js
+import {colors, theme, spacing, fontSize, spacing, fonts } from "shared-styles/index";
+```
 
 ### ToDos
 
 - [x] LICENSE
 - [ ] Write an article about the lib on Medium
-
-# Change Log
-
-Change log will be here !
 
 ## Author
 
