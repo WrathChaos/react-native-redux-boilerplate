@@ -54,8 +54,6 @@ git clone git@github.com:WrathChaos/react-native-redux-boilerplate.git
 - font-size
 
 
-
-
 ## Imports
 
 ```js
@@ -84,9 +82,9 @@ if you want to call them all at once
 import {colors, theme, spacing, fontSize, spacing, fonts } from "shared-styles/index";
 ```
 
-### ToDos
+### Future Plans
 
-- [x] LICENSE
+- [x] ~~LICENSE~~
 - [ ] Write an article about the lib on Medium
 
 ## Author
