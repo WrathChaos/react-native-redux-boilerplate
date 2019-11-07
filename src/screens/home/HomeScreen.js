@@ -4,6 +4,7 @@ import { Text, View } from "react-native";
 import colors from "colors";
 
 const HomeScreen = props => {
+  // ? Usage of the API Client with React Hooks!
   // const [{ status, response }, makeRequest] = ApiRequest(BASE_URL + GET, {
   //   verb: "get"
   // });

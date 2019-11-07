@@ -8,12 +8,12 @@
             "root": ["./src"],
             "alias": [
               { "shared-components": "./src/shared/components" },
-              { "shared-styles": "./src/shared/styles" },
-              { "fonts": "./src/shared/styles/fonts" },
-              { "colors": "./src/shared/styles/colors" },
-              { "font-size": "./src/shared/styles/font-size" },
-              { "spacing": "./src/shared/styles/spacing" },
-              { "styles": "./src/shared/styles/index" },
+              { "shared-theme": "./src/shared/theme" },
+              { "fonts": "./src/shared/theme/fonts/index" },
+              { "colors": "./src/shared/theme/colors" },
+              { "font-size": "./src/shared/theme/font-size" },
+              { "spacing": "./src/shared/theme/spacing" },
+              { "theme": "./src/shared/theme/index" },
               { "assets": "./assets" },
               { "screens": "./src/screens" }
             ]
