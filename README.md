@@ -79,7 +79,7 @@ import theme from "theme";
 if you want to call them all at once
 
 ```js
-import {colors, theme, spacing, fontSize, spacing, fonts } from "shared-styles/index";
+import { colors, theme, spacing, fontSize, spacing, fonts } from "shared-styles/index";
 ```
 
 ### Future Plans
