@@ -31,7 +31,7 @@
     "@freakycoder/react-native-helpers": "0.0.21",
     "@react-native-community/async-storage": "^1.6.1",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.60.6",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-reanimated": "^1.2.0",
     "react-native-screens": "^2.0.0-alpha.3",
