@@ -28,7 +28,7 @@
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@freakycoder/react-native-helpers": "0.0.21",
+    "@freakycoder/react-native-helpers": "0.1.0",
     "@react-native-community/async-storage": "^1.6.1",
     "react": "16.8.6",
     "react-native": "0.60.5",

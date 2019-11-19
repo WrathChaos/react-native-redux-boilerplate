@@ -656,10 +656,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@freakycoder/react-native-helpers@0.0.21":
-  version "0.0.21"
-  resolved "https://registry.yarnpkg.com/@freakycoder/react-native-helpers/-/react-native-helpers-0.0.21.tgz#f5377f2f927fcf1a4b177ab7908f480f2314ead6"
-  integrity sha512-opPtI5F6+TgHowtKEHw+9h7InFNQc9M5hOPOen14iRpROOozeleCiWOsIIr15cjWg/A3xpt50M9r1gbQyCOuBQ==
+"@freakycoder/react-native-helpers@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@freakycoder/react-native-helpers/-/react-native-helpers-0.1.0.tgz#71c7a38cb3b96d8493f9a187c462b7f93f20bbb4"
+  integrity sha512-8ZPsk2gw6oUbQyduRoyz6VUCmlR6pVTrunrq3eDOxNTnK7UStpZlFRGBg6NTJDo5SFK+/kz8j+ikeo09vDBdeA==
 
 "@hapi/address@2.x.x":
   version "2.1.1"
