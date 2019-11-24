@@ -1,0 +1,26 @@
+{
+  "env": {
+    "development": {
+      "plugins": [
+        [
+          "module-resolver",
+          {
+            "root": ["./src"],
+            "alias": [
+              { "shared-components": "./src/shared/components" },
+              { "shared-theme": "./src/shared/theme" },
+              { "services": "./src/services" },
+              { "fonts": "./src/shared/theme/fonts/index" },
+              { "colors": "./src/shared/theme/colors" },
+              { "font-size": "./src/shared/theme/font-size" },
+              { "spacing": "./src/shared/theme/spacing" },
+              { "theme": "./src/shared/theme/index" },
+              { "assets": "./assets" },
+              { "screens": "./src/screens" }
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}
