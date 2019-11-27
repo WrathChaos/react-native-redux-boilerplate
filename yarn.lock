@@ -5365,9 +5365,9 @@ react-native-safe-area-view@^0.14.1, react-native-safe-area-view@^0.14.6:
     debounce "^1.2.0"
 
 react-native-screens@^2.0.0-alpha.3:
-  version "2.0.0-alpha.12"
-  resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.0.0-alpha.12.tgz#35a6ef3b472958e9d35f0ca9e582d0d158f8e379"
-  integrity sha512-x9M7FEdcm97bVDp3pi//nhduJHLFMrmDQs0fq299yx3kHdgHbrmhsa8jgW4HvDQhjyPE0FWADY/GrXFuPRj80w==
+  version "2.0.0-alpha.13"
+  resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.0.0-alpha.13.tgz#eb3306b28c4b44230dda8da106ecd8c719b99cef"
+  integrity sha512-3ekad3ai3fIoxCw/NZA1fKtRi3q3xypfc2rpWpVRZJFUOAKDIZAXHsVt+b6eruxnVQ69kED3gkXRY2rmDDj6Zw==
   dependencies:
     debounce "^1.2.0"
 
