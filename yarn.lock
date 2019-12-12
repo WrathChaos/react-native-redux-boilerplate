@@ -5416,10 +5416,10 @@ react-navigation-drawer@^2.3.3:
   resolved "https://registry.yarnpkg.com/react-navigation-drawer/-/react-navigation-drawer-2.3.3.tgz#d7e607d5e10f2b3c40ab7dc9720228ce3f888a0f"
   integrity sha512-d/rA8Slqv7HoMfONKVDBQUrRF7YQH796Gzal/KOhaY4VOwUUqIwfxMRJ3WrsdL2OkDPixtkXJE2Fz6KAj658uA==
 
-react-navigation-helpers@0.0.11:
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/react-navigation-helpers/-/react-navigation-helpers-0.0.11.tgz#7cd879f385df9a16cc59c569f4cecf91c53ad471"
-  integrity sha512-em9BmocBXLTtkxBrjZhNhHpcBdhHctf0qGKMmefA4bTLxvVIuJ/E5IauxQdwQIQB+QyN9VpblmMJniAXnO0v7g==
+react-navigation-helpers@0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/react-navigation-helpers/-/react-navigation-helpers-0.1.0.tgz#7ce3b92613d10e6747bb3da70f3d1d7bf8d0c90e"
+  integrity sha512-uaXR/itbnJBoSkpXC4KpdjWUUtKsj5BOKy5ns0d1E2NdGCvEqLd0rpxjCEgjBfdIaWht635z52T6Urn5liYPtg==
 
 react-navigation-stack@^1.10.3:
   version "1.10.3"
