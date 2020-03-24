@@ -1,17 +1,17 @@
 import React, { useEffect } from "react";
 import PropTypes from "prop-types";
 import { Text, View } from "react-native";
+/**
+ * ? Local Imports
+ */
 import colors from "colors";
+import { fetchExample } from "api";
 
 const HomeScreen = props => {
-  // ? Usage of the API Client with React Hooks!
-  // const [{ status, response }, makeRequest] = ApiRequest(BASE_URL + GET, {
-  //   verb: "get"
-  // });
   const { example } = props;
 
   useEffect(() => {
-    // makeRequest();
+    fetchExample();
   }, []);
 
   return (

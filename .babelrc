@@ -7,17 +7,18 @@
         "alias": [
           { "shared-components": "./src/shared/components" },
           { "shared-constants": "./src/shared/constants" },
-          { "shared-theme": "./src/shared/theme" },
-          { "utils": "./src/utils/" },
-          { "services": "./src/services" },
+          { "font-size": "./src/shared/theme/font-size" },
           { "requests": "./src/services/api/requests" },
           { "fonts": "./src/shared/theme/fonts/index" },
-          { "colors": "./src/shared/theme/colors" },
-          { "font-size": "./src/shared/theme/font-size" },
           { "spacing": "./src/shared/theme/spacing" },
+          { "colors": "./src/shared/theme/colors" },
+          { "shared-theme": "./src/shared/theme" },
           { "theme": "./src/shared/theme/index" },
-          { "assets": "./assets/" },
-          { "screens": "./src/screens" }
+          { "services": "./src/services" },
+          { "api": "./src/services/api" },
+          { "screens": "./src/screens" },
+          { "utils": "./src/utils/" },
+          { "assets": "./assets/" }
         ]
       }
     ]
