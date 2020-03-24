@@ -23,15 +23,17 @@ You can simply clone the project and start with your barebone project
 git clone git@github.com:WrathChaos/react-native-redux-boilerplate.git
 ```
 
-# What's Included? 
+# What's Included?
 
 - Redux
 - Redux Services
-- Ready to use Styles
 - NavigationService
+- API Usage Service
+- Ready to use Styles
 - React Navigation v4
 - React Navigation Helpers
 - HTTP Network Management (Axios)
+- Built-in EventEmitter (EventBus)
 - Generic React Hooks API Request Service
 - Babel Plugin Module Resolver to fix the relative path problem (visit .babelrc)
 
@@ -48,7 +50,6 @@ git clone git@github.com:WrathChaos/react-native-redux-boilerplate.git
 - spacing
 - theme
 - font-size
-
 
 ## Imports
 
@@ -75,7 +76,7 @@ import theme from "theme";
 if you want to call them all at once
 
 ```js
-import {colors, theme, spacing, fontSize, spacing, fonts } from "shared-styles/index";
+import { theme, fonts, colors, spacing, fontSize } from "shared-styles/index";
 ```
 
 ### Future Plans
