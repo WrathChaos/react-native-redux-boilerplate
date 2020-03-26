@@ -19,9 +19,45 @@
 
 You can simply clone the project and start with your barebone project
 
-```
+```ruby
 git clone git@github.com:WrathChaos/react-native-redux-boilerplate.git
 ```
+
+## Step By Step Guide
+
+### Rename the project: (Thanks to [react-native-name](https://github.com/junedomingo/react-native-rename))
+
+```
+npx react-native-rename <your-project-name>
+```
+
+> With custom Bundle Identifier (Android only. For iOS, please use Xcode)
+```
+npx react-native-rename <your-project-name> -b <bundleIdentifier>
+```
+
+### Install Pods (iOS Only)
+
+* npm i
+* cd ios && pod install
+* cd .. && react-native run-ios/android
+
+### Android local.properties (Android Only)
+
+* npm i 
+* cd android && mkdir local.properties
+* nano local.properties
+  
+#### Example of MacOS Android SDK Path
+Make sure that set your right path of Android SDK
+``` 
+ndk.dir=/Users/your-name/Library/Android/sdk/ndk-bundle
+sdk.dir=/Users/your-name/Library/Android/sdk
+```
+
+* cd .. & react-native run-ios/android
+
+<hr>
 
 # What's Included?
 
@@ -37,7 +73,7 @@ git clone git@github.com:WrathChaos/react-native-redux-boilerplate.git
 - Generic React Hooks API Request Service
 - Babel Plugin Module Resolver to fix the relative path problem (visit .babelrc)
 
-<br>
+<hr>
 
 # Components
 
