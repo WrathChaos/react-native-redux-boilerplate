@@ -5893,9 +5893,9 @@ react-native@0.62.0:
     whatwg-fetch "^3.0.0"
 
 react-navigation-drawer@^2.3.3:
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/react-navigation-drawer/-/react-navigation-drawer-2.4.10.tgz#b193139985e3262c7f01c50f3c5f54bfda04d07e"
-  integrity sha512-uSqrRZIAsH3kgCcMpyR1oNIxWDS/k5tx0hzZUikebhuPaGgZFX1OXT5nyxsVqEwjq4nHE/DfhlWMfN/UYyA6og==
+  version "2.4.11"
+  resolved "https://registry.yarnpkg.com/react-navigation-drawer/-/react-navigation-drawer-2.4.11.tgz#3202d1f90e01da838b092c53ac043a567cef5ba7"
+  integrity sha512-DBA5rKYyjxPzzrB0m5ZApZ+pJpl6aueEcz4TSDzoh/10wjifSaaDwDhZxM0Tz9mwd/wn5rgzMq8EYt2eZhjPYA==
 
 react-navigation-helpers@0.1.0:
   version "0.1.0"
