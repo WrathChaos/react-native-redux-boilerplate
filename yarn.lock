@@ -6092,9 +6092,9 @@ react-native-safe-area-view@^0.14.9:
     hoist-non-react-statics "^2.3.1"
 
 react-native-screens@^2.0.0-alpha.3:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.10.0.tgz#4e3d5c9fa16cc0f2d0f3f4ccd8071408d807904b"
-  integrity sha512-hxFYNhVqJ+6nWGWUYoyOhkG2MP+UC7Q7s3EIXWyNcsqaWSCHSmV4GnUP1h+nVOG94tX2dGEWlBpkngxNYlRT8Q==
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.10.1.tgz#06d22fae87ef0ce51c616c34a199726db1403b95"
+  integrity sha512-Z2kKSk4AwWRQNCBmTjViuBQK0/Lx0jc25TZptn/2gKYUCOuVRvCekoA26u0Tsb3BIQ8tWDsZW14OwDlFUXW1aw==
 
 react-native-tab-view@^2.11.0:
   version "2.11.0"
