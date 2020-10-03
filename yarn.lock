@@ -6217,9 +6217,9 @@ react-navigation-stack@^2.8.2:
     react-native-iphone-x-helper "^1.2.1"
 
 react-navigation-tabs@^2.6.0:
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/react-navigation-tabs/-/react-navigation-tabs-2.9.1.tgz#588642f6a337c2d206789834f08a86a448debf21"
-  integrity sha512-/XHM01i8jlk3k2Al2eoNnODjbrOqzjz4kW/hK6PgmleyNBbiJlYEnZWa6Pcd/30D1X2xXMv9p2wXhjUeeRQHDg==
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/react-navigation-tabs/-/react-navigation-tabs-2.9.2.tgz#2c148c75a77fba050fb36d16002a808dcb7d3a00"
+  integrity sha512-Kz3bFgqTruR76jIz69KQFsvh97oc73otuklaAbrxs6MxK8UkA6RlEk5v5VuPEMwD3RV2yke9SQwEWTDoAWtXTA==
   dependencies:
     hoist-non-react-statics "^3.3.2"
     react-lifecycles-compat "^3.0.4"
