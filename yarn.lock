@@ -907,10 +907,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@freakycoder/react-native-helpers@0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@freakycoder/react-native-helpers/-/react-native-helpers-0.1.3.tgz#c395a8406b264119e1817d959377df2f18162ec9"
-  integrity sha512-2XXQlRigg/LgKhFYqzKKuef+JP8y8K6N1R/eTx6wHqSqnGi4x1cXRmCJKtT/woj4X8Lux8zThBug8miXJdPhnQ==
+"@freakycoder/react-native-helpers@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@freakycoder/react-native-helpers/-/react-native-helpers-1.0.0.tgz#884985106dffbc923bdee42d7bb7d1c10de74317"
+  integrity sha512-Nc1B2+/mTgI40dWa6Hm3x6l76KtacVYy8D7BOGA/i60eiliD+yovK4uu/iWR/UFyeDTUv16ZdRSOuAFgVW9NcA==
 
 "@hapi/address@2.x.x":
   version "2.1.4"
