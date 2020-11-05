@@ -6001,9 +6001,9 @@ react-navigation-helpers@0.1.0:
   integrity sha512-uaXR/itbnJBoSkpXC4KpdjWUUtKsj5BOKy5ns0d1E2NdGCvEqLd0rpxjCEgjBfdIaWht635z52T6Urn5liYPtg==
 
 react-navigation-stack@^2.8.2:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/react-navigation-stack/-/react-navigation-stack-2.10.0.tgz#c961fec5e563f46030641849ba4775bfadf5cfcf"
-  integrity sha512-2WM2maXs+3nfAODfJiHSO8GmKdugHCdFkiz9kG3G5ber+22fusT4lvord4Yq3dizYa319GBhRI0PVn07FmYHrg==
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/react-navigation-stack/-/react-navigation-stack-2.10.1.tgz#535a9b302fe7bcb27a70592b279b88968faa7ad4"
+  integrity sha512-h/SB7WZjNC1xTGZnpKC6e6eC5Q6PEiyhRTIun0+VTrdp5FfPqXlFOCYQBd+BLDy/oP4rsLvGC0D4LXjDDDaCfw==
   dependencies:
     color "^3.1.3"
     react-native-iphone-x-helper "^1.3.0"
