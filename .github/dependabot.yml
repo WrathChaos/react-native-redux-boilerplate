@@ -1,0 +1,14 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: react-redux
+    versions:
+    - 7.2.4
+  - dependency-name: eslint
+    versions:
+    - 7.24.0
