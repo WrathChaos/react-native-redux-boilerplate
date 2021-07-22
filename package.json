@@ -32,7 +32,7 @@
     "@react-native-community/async-storage": "^1.6.3",
     "axios": "^0.21.0",
     "react": "16.13.1",
-    "react-native": "0.63.4",
+    "react-native": "0.64.1",
     "react-native-gesture-handler": "^1.5.1",
     "react-native-reanimated": "^1.7.1",
     "react-native-screens": "^3.0.0",
