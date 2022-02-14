@@ -30,7 +30,7 @@
   "dependencies": {
     "@freakycoder/react-native-helpers": "1.0.2",
     "@react-native-community/async-storage": "^1.6.3",
-    "axios": "^0.25.0",
+    "axios": "^0.26.0",
     "react": "16.14.0",
     "react-native": "0.67.2",
     "react-native-gesture-handler": "^1.5.1",
